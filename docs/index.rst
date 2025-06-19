@@ -6,6 +6,8 @@ How To Contact Frontier Communications Service?
    :caption: Contents:
 
 Frontier Communications is one of the leading telecommunications companies in the United States, offering a range of services, including high-speed internet, landline phones, and digital TV.
+
+
 .. image:: click-service.png
    :alt: My Project Logo
    :width: 400px
